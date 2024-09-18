@@ -5517,6 +5517,7 @@ Philip Ambattu
 - [Emeraldthedev](https://github.com/OriloyeEmerald)
 - [BeesyBumbleBee](https://github.com/BeesyBumbleBee)
 - [Carry Lee](https://github.com/Nuaza)
+- [AllKarr]
 - [yuchenlogin](https://github.com/yuchenlogin)
 - [Furkan Dogmus](https://github.com/furkandogmus)
 - [Comet AHC](https://github.com/CometAHC)
